@@ -1,5 +1,3 @@
 # chuckNorris-RandomJokeGenerator
 
-Generates random chuck norris jokes and allows you tweet them.
-
-Free Code Camp - project => Random Quote Generator
+An Ajax driven application that generates random chuck norris jokes and allows you to tweet them instantly.
